@@ -19,3 +19,4 @@ typing_extensions==4.13.2
 plotly==6.3.0
 pandas
 nbformat
+CoolProp
